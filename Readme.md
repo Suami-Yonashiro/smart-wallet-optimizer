@@ -1,8 +1,15 @@
 # Smart Wallet Optimizer — Data-Driven Equity Valuation Engine (Otimizador de Carteira. Painel Valuation).
 
+[Ver dashboard completo](dashboard_preview.pdf)
+
 Ferramenta automatizada de análise de ações baseado em dados, projetada para identificar distorções entre preço de mercado e valor intrínseco na B3, combinando Python, SQL e Power BI.
 
 Este projeto não constitui recomendação de investimento. Seu objetivo é estruturar um processo analítico escalável e orientado a dados para suporte à tomada de decisão.
+
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![SQL](https://img.shields.io/badge/SQL-SQLite-lightgrey)
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-green)
 
 ---
 
